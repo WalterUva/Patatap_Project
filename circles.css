@@ -1,0 +1,14 @@
+html,body{
+	height: 100%;
+	margin: 0;
+}
+canvas{
+	height: 100%;
+	background: black;
+}
+h5{
+	background: black;
+	text-align: center;
+	color:white;
+	margin:0;
+}
